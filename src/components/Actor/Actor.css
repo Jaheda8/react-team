@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+}
+
+button {
+    background-color: rgb(31, 28, 28);
+    color: white;
+    padding: 6px 15px;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+button:hover {
+    border: 1px solid black;
+    background-color: rgb(255, 254, 253);
+    color: black;
+}
+
+.actors-container {
+    height: 410px;
+    width: 220px;
+    border: 1px solid rgb(214, 195, 195);
+    padding: 10px 40px 20px 40px;
+    text-align: left;
+    border-radius: 8px;
+
+}
+.actors-container:hover{
+    background-color: rgb(54, 49, 49);
+    color: white;
+}
+
+.image {
+    margin-left: 20px;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    text-align: center;
+}
