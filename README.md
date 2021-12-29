@@ -7,7 +7,7 @@
 ### What we learn from this project?
 
 ##### 👉 We can Know top 12 famous actors in USA
-##### 👉 We can know know their bio data
+##### 👉 We can know their bio data
 ##### 👉 We can contact to them 
 
 
